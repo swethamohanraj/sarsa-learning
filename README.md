@@ -91,8 +91,7 @@ def sarsa(env, gamma=1.0, init_alpha=0.5, min_alpha=0.01, alpha_decay_ratio=0.5,
 
 ### Plot for State Value Function 
 
-![image](https://github.com/swethamohanraj/sarsa-learning/assets/94228215/5830b198-3ccd-4a01-b593-fa72409e42bf)
-
+![image](https://github.com/swethamohanraj/sarsa-learning/assets/94228215/1fe16e65-3501-4aaf-a1d6-de82246c621f)
 
 ## RESULT:
 
