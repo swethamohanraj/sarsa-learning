@@ -79,7 +79,7 @@ def sarsa(env, gamma=1.0, init_alpha=0.5, min_alpha=0.01, alpha_decay_ratio=0.5,
 ## OUTPUT:
 
 ### Optimal Policy:
-<img width="553" alt="image" src="https://github.com/Aashima02/sarsa-learning/assets/93427086/1f4fdf5c-6142-4194-b408-040fa4fa5716">
+![image](https://github.com/swethamohanraj/sarsa-learning/assets/94228215/8f3c3d01-b51f-4b11-8d6b-e8b2a6b04c20)
 
 
 ### First Visit Monte Carlo Method:
@@ -89,13 +89,9 @@ def sarsa(env, gamma=1.0, init_alpha=0.5, min_alpha=0.01, alpha_decay_ratio=0.5,
 
 ![image](https://github.com/swethamohanraj/sarsa-learning/assets/94228215/254c7ac9-0bdd-497c-818b-7a048abfb649)
 
-### Plot for State Value Function - Monte Carlo:
+### Plot for State Value Function 
 
-<img width="553" alt="image" src="https://github.com/Aashima02/sarsa-learning/assets/93427086/1aae6455-9beb-4974-8661-783dd4958ce5">
-
-### Plot for State Value Function - SARSA Learning:
-
-<img width="553" alt="image" src="https://github.com/Aashima02/sarsa-learning/assets/93427086/3252d7ed-c2a3-480d-9a5c-2e7412a59a5f">
+![image](https://github.com/swethamohanraj/sarsa-learning/assets/94228215/5830b198-3ccd-4a01-b593-fa72409e42bf)
 
 
 ## RESULT:
