@@ -83,12 +83,11 @@ def sarsa(env, gamma=1.0, init_alpha=0.5, min_alpha=0.01, alpha_decay_ratio=0.5,
 
 
 ### First Visit Monte Carlo Method:
-
-<img width="553" alt="image" src="https://github.com/Aashima02/sarsa-learning/assets/93427086/640e34aa-2f12-4e0d-855d-14a9adc98e8a">
+![image](https://github.com/swethamohanraj/sarsa-learning/assets/94228215/c17998c5-9232-47d1-9fcc-b41ec9eebc0b)
 
 ### SARSA Learning Algorithm:
 
-<img width="553" alt="image" src="https://github.com/Aashima02/sarsa-learning/assets/93427086/42a7d093-dd4f-4ba7-b426-3c6d884bf2db">
+![image](https://github.com/swethamohanraj/sarsa-learning/assets/94228215/254c7ac9-0bdd-497c-818b-7a048abfb649)
 
 ### Plot for State Value Function - Monte Carlo:
 
